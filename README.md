@@ -19,6 +19,9 @@ Steps Overview
   * Additional Features: Include socialNbFollowers, productsWished, socialProductsLiked, and countryCode.
     
 3.Data Transformation: Normalize numerical features and encode categorical ones.
+
 4.Clustering: Apply K-means clustering to segment customers.
+
 5.Analysis and Visualization: Interpret clusters and suggest marketing strategies.
+
 6.Output: Save the segmented dataset and provide actionable insights.
